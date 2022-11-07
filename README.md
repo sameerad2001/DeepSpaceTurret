@@ -12,4 +12,4 @@
     - The game over state is triggered when the player collides with an enemy
 
 
-![Demo](https://github.com/sameerad2001/DeepSpaceTurret/blob/master/Demo/BreakthroughDemo1.gif)
+![Demo](https://github.com/sameerad2001/DeepSpaceTurret/blob/master/Demo/DeepSpaceTurretDemo1.gif)
